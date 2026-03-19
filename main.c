@@ -3,9 +3,11 @@
   작 성 자:류형찬
 */
 #include <stdio.h>
-int main()
-{ 
-    printf("Hello, World!");
-    return 0;
-
+int main(){
+  printf("Hello,World");
+  return 0;
 }
+
+   
+
+
