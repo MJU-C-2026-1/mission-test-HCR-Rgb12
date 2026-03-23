@@ -3,8 +3,8 @@
   작 성 자:류형찬
 */
 #include <stdio.h>
-int main(void){
-  printf("Hello,World");
+int main(){
+  printf("Hello World");
   return 0;
 }
 
